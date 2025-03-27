@@ -45,9 +45,6 @@ A simple and secure login and registration system with OTP (One-Time Password) f
 - [jQuery](https://jquery.com/) - Used for DOM manipulation.
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) (Optional) - For SMTP email configuration.
 
-
-## Screenshots 📸
-
 ![registration page](screenshots/Screenshot_3.png)
 *Screenshot of registration page.*
 
@@ -65,9 +62,3 @@ A simple and secure login and registration system with OTP (One-Time Password) f
 
 ![loggedin page](screenshots/Screenshot_5.png)
 *Screenshot of loggedin page.*
-
-## Feedback and Contributions 💌
-
-If you have any feedback or want to contribute to this project, feel free to contact the developer Azim Krishna, at azimbaji19@gmail.com
-
-Happy coding! 🚀
